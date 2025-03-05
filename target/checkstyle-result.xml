@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/exception/NoGradeAvailableException.java">
+</file>
+<file name="/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/exception/NoRegistrationException.java">
+</file>
+<file name="/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/model/Grade.java">
+</file>
+<file name="/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/model/Module.java">
+</file>
+<file name="/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/model/Registration.java">
+</file>
+<file name="/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/model/Student.java">
+</file>
+</checkstyle>

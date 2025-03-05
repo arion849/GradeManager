@@ -1,0 +1,10 @@
+#Tue Dec 03 15:50:54 GMT 2024
+/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/exception/NoGradeAvailableException.java=1730416745058
+/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/exception/NoRegistrationException.java=1730416762807
+/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/model/Grade.java=1730406043873
+/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/model/Module.java=1730409152277
+/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/model/Registration.java=1730406885471
+/mnt/c/Users/CRS/CS2800/CW1/src/main/java/uk/ac/rhul/cs2800/model/Student.java=1730398328114
+configuration*?=BE54E28507B46F5364248609B975779000C7F4A0
+module-resource*?\:checkstyle-suppressions.xml=AA2FC512DADB7351DC5669E1FA336D0B2D08537
+module-resource*?\:checkstyle-xpath-suppressions.xml=320A8B3CBD36ADBE32FCE8F9811A9AC79AE1B2E6
